@@ -6,8 +6,13 @@ Passionate and skilled Frontend Developer with expertise in HTML, CSS, JavaScrip
 
 Skills: Proficient in HTML / CSS / JavaScript / React / Node.js / MongoDB / Firebase / Bootstrap /  Tailwind CSS / Strong understanding of front-end and back-end web development principles / Ability to design and develop responsive web applications / Familiarity with version control systems such as Git / Excellent problem-solving and debugging skills / Good understanding of database management and integration.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Personal Project 
+- 🌱 I’m currently learning Mern 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Frontend Developer 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdalmamungalib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-al-mamun-galib//)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamungalib)](https://github.com/anuraghazra/github-readme-stats)
 
