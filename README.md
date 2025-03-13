@@ -51,5 +51,5 @@ Skills: ### Frontend - HTML, CSS, JavaScript (ES6+), React.js, Next.js, Bootstra
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mdalmamungalib)](https://github.com/ryo-ma/github-profile-trophy)
+
 
