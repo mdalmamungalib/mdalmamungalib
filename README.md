@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is MD Al Mamun Galib
 #### MERN stack developer | Full stack developer | React.js Developer | Next.js Developer
-![MERN stack developer | Full stack developer | React.js Developer | Next.js Developer]([https://i.ibb.co/DKt0Lc8/Yellow-Blue-Minimalist-World-Travel-Adventure-Facebook-Cover-1.png](https://res.cloudinary.com/df07rxrdh/image/upload/fl_preserve_transparency/v1763857450/wmremove-transformed_gmwwcu.jpg?_s=public-apps))
+![MERN stack developer | Full stack developer | React.js Developer | Next.js Developer](https://res.cloudinary.com/df07rxrdh/image/upload/fl_preserve_transparency/v1763857450/wmremove-transformed_gmwwcu.jpg?_s=public-apps)
 
 Hi there! I'm MD Al Mamun Galib, a dedicated Frontend Developer and MERN stack web developer. With a strong foundation in HTML, CSS, JavaScript (ES6+), React.js, Next.js,  Node.js, Express.js, and MongoDB CRUD operations, I am passionate about building efficient and user-friendly web applications. My expertise also extends to Firebase Authentication, JWT security, Bootstrap, Tailwind CSS, and responsive web development.
 
