@@ -1,55 +1,107 @@
-### Hi there 👋, my name is MD Al Mamun Galib
-#### MERN stack developer | Full stack developer | React.js Developer | Next.js Developer
-![MERN stack developer | Full stack developer | React.js Developer | Next.js Developer](https://res.cloudinary.com/df07rxrdh/image/upload/fl_preserve_transparency/v1763857450/wmremove-transformed_gmwwcu.jpg?_s=public-apps)
+# Hi, I'm MD Al Mamun Galib 👋
 
-Hi there! I'm MD Al Mamun Galib, a dedicated Frontend Developer and MERN stack web developer. With a strong foundation in HTML, CSS, JavaScript (ES6+), React.js, Next.js,  Node.js, Express.js, and MongoDB CRUD operations, I am passionate about building efficient and user-friendly web applications. My expertise also extends to Firebase Authentication, JWT security, Bootstrap, Tailwind CSS, and responsive web development.
+### Full Stack Developer | React.js • Next.js • Node.js • TypeScript
 
-🌐 Contact Information Phone: +8801307455117 Email: mdalmamungalib3929@gmail.com Location: Bangladesh, West Baniakhamar Main Road, Khulna 9100 LinkedIn: md-al-mamun-galib-8838b1234 GitHub: mdalmamungalib 🎓 Education Higher Secondary Certificate (Business Management), 2021: GPA: 4.75 HSC (Business Management) First Year Examination, 2020: GPA: 5.00 Secondary School Certificate Examination, 2019: GPA: 2.83 Junior School Certificate Examination, 2016: GPA: 4.10 .
+I’m a Full Stack Developer focused on building scalable, secure, and responsive web applications using modern JavaScript technologies.
 
-Engaged in self-directed learning and personal projects to enhance technical skills in web development.
-Developed and maintained multiple web applications using various technologies, including React, Node.js, and Firebase.
-Actively contributed to online developer communities and forums, seeking feedback and collaborating with peers.
-🛠️ Skills
-Web Development: HTML, CSS, JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, MongoDB (CRUD operations)
-Authentication & Security: Firebase Authentication, JWT security
-Full Stack Development: MERN stack
-Responsive Design: Bootstrap, Tailwind CSS, Media Queries
-Tools and Technologies: Git, GitHub, REST APIs, JSON
-Software Proficiency: Microsoft Office (Word, Excel, PowerPoint)
-Additional Skills: Problem-solving, teamwork, communication
-🚀 Professional Summary
-I am a highly skilled and dedicated MERN stack web developer with extensive knowledge in various web technologies and tools. Since 2021, I've immersed myself in self-directed learning and personal projects, developing multiple web applications and actively contributing to online developer communities. My educational background in Business Management provides me with a unique perspective, merging both the creative and analytical aspects of web development. I am committed to continuously expanding my technical knowledge and building efficient, user-friendly web applications.
+I work across frontend and backend development with experience in **React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs, and modern authentication systems**.
 
-💡 When I'm not coding, I enjoy delving into new technologies and refining  skills. My dedication to continuous learning drives me to push the boundaries of what's possible in web development. Feel free to connect with me on GitHub, explore my projects, and collaborate on exciting opportunities. Let's build something amazing together!
-
-Skills: ### Frontend - HTML, CSS, JavaScript (ES6+), React.js, Next.js, Bootstrap, Tailwind CSS  ### Backend - Node.js, Express.js  ### Database - MongoDB (CRUD operations)  ### Tools & Others - Git, GitHub, REST APIs, JSON, Postman, Vite
-
-- 🔭 I’m currently working on  I’m currently working on Khulna Travelers web 
-- 🌱 I’m currently learning I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on  I’m looking to collaborate on Yes i do 
-- 🤔 I’m looking for help with I’m looking for help with from you 
-- 💬 Ask me about Ask me about any case 
-- 📫 How to reach me:  How to reach me: Phone: +8801307455117 Email: mdalmamungalib3929@gmail.com Location: Bangladesh, West Baniakhamar Main Road, Khulna 9100 LinkedIn: md-al-mamun-galib-8838b1234 GitHub: mdalmamungalib 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdalmamungalib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-al-mamun-galib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61555600984702)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdalmamungalib.vercel.app/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/galib6424) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MD Al Mamun Galib) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdalmamungalib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdalmamungalib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamungalib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I also leverage AI-assisted development tools to improve coding, debugging, refactoring, documentation, research, and development workflows.
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
+- 💼 Full Stack Developer at **URO Software & Design**
+- 🌍 Based in **Khulna, Bangladesh**
+- 💻 Building full-stack applications with **Next.js, React.js & Node.js**
+- 🗄️ Working with **PostgreSQL, MongoDB & Prisma**
+- 🔐 Experienced with **NextAuth.js, Firebase Authentication & JWT**
+- 🤖 Using **ChatGPT, Claude, Gemini, GitHub Copilot & Cursor** for AI-assisted development
+- 🌱 Continuously learning modern backend, web, and AI development technologies
+- 🤝 Open to **Full Stack Developer, Next.js Developer & MERN Stack Developer** opportunities
 
+---
 
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Authentication & APIs
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🛒 My Mart — Full-Stack E-commerce Platform
+
+A secure and responsive full-stack e-commerce platform featuring product management, shopping cart, checkout, authentication, admin dashboard, and analytics.
+
+**Tech:** Next.js • MongoDB • Authentication • Cloudinary • Chart.js
+
+**[Live Demo](YOUR_MY_MART_LIVE_URL) • [Repository](YOUR_MY_MART_GITHUB_URL)**
+
+---
+
+### 💼 Job Posting Platform — Full-Stack Job Board
+
+A modern job posting and application platform supporting dedicated employer and candidate workflows with secure authentication and relational data management.
+
+**Tech:** Next.js • TypeScript • PostgreSQL • Prisma • NextAuth.js
+
+**[Live Demo](YOUR_JOB_PLATFORM_LIVE_URL) • [Repository](YOUR_JOB_PLATFORM_GITHUB_URL)**
+
+---
+
+### 🚗 Car Doctor Pro
+
+A responsive car service management application featuring service ordering, order management, authentication, invoicing, and CRUD operations.
+
+**Tech:** Next.js • MongoDB • Firebase • JWT
+
+**[Live Demo](YOUR_CAR_DOCTOR_LIVE_URL) • [Repository](YOUR_CAR_DOCTOR_GITHUB_URL)**
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdalmamungalib&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmamungalib&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdalmamungalib.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-al-mamun-galib-8838b1234/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalmamungalib)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalmamungalib3929@gmail.com)
+
+---
+
+### 💡 Building scalable web applications with modern technologies.
