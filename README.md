@@ -104,7 +104,7 @@ A secure and responsive full-stack e-commerce platform featuring product managem
 
 **Technologies:** Next.js • MongoDB • Cloudinary • UploadThing • React Email • Chart.js
 
-[🌐 Live Demo](YOUR_MY_MART_LIVE_URL) • [💻 Source Code](YOUR_MY_MART_GITHUB_URL)
+[🌐 Live Demo](https://www.agromart24.com/) • [💻 Source Code](https://github.com/mdalmamungalib/my-mart-g/tree/main)
 
 ---
 
@@ -116,7 +116,7 @@ A modern job posting and application platform supporting dedicated employer and 
 
 **Technologies:** Next.js • TypeScript • PostgreSQL • Prisma • NextAuth.js
 
-[🌐 Live Demo](YOUR_JOB_PLATFORM_LIVE_URL) • [💻 Source Code](YOUR_JOB_PLATFORM_GITHUB_URL)
+[🌐 Live Demo](https://urogroupjobsboard.vercel.app/) • [💻 Source Code](YOUR_JOB_PLATFORM_GITHUB_URL)
 
 ---
 
@@ -128,7 +128,7 @@ A responsive car service management application featuring service ordering, orde
 
 **Technologies:** Next.js • MongoDB • Firebase Authentication • JWT
 
-[🌐 Live Demo](YOUR_CAR_DOCTOR_LIVE_URL) • [💻 Source Code](YOUR_CAR_DOCTOR_GITHUB_URL)
+[🌐 Live Demo](https://car-doctor-pro-delta.vercel.app/) • [💻 Source Code](https://github.com/mdalmamungalib/car-doctor-pro)
 
 ---
 
